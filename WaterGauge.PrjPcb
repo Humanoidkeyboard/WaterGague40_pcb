@@ -106,11 +106,7 @@ GenerateClassCluster=0
 DocumentUniqueId=LLTVBYJI
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for WaterGauge\Design Rule Check - 40WaterGauge20260627.html
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for WaterGauge\Design Rule Check - WaterGauge20260619.html
+DocumentPath=Project Outputs for WaterGauge\Design Rule Check - 40WaterGauge20260709.html
 DItemRevisionGUID=
 
 [Configuration1]
@@ -232,7 +228,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=FF K518h for DocuCentre S2110
+TargetPrinter=Foxit PDF Reader Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
